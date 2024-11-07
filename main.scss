@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'Lato-regular';
-    src: url(fonts/Lato-Regular.ttf);
+    src: url('fonts/Lato-Regular.ttf');
 }
 @font-face {
     font-family: 'Lato-bold';
-    src: url(/fonts/Lato-Bold.ttf);
+    src: url('fonts/Lato-Bold.ttf');
 }
 @font-face {
     font-family: 'Lato-black';
-    src: url(./fonts/Lato-Black.ttf);
+    src: url('fonts/Lato-Black.ttf');
 }
 
 h1{
@@ -169,7 +169,7 @@ a{
 .carousel-control-prev {
 }
 .carousel-control-prev-icon {
-    background-image: url('/img/icon-prev-btn.png');
+    background-image: url('img/icon-prev-btn.png');
     max-width: 20px;
     max-height: 20px;
 }
@@ -178,7 +178,7 @@ a{
 .carousel-control-next {
 }
 .carousel-control-next-icon {
-    background-image: url('/img/icon-next-btn.png');
+    background-image: url('img/icon-next-btn.png');
     max-width: 20px;
     max-height: 20px;
 }
